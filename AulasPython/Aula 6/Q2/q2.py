@@ -9,4 +9,4 @@ num1 = int(input())
 num2 = int(input())
 num  = int(input())
 
-print(is_in_interval(num1, num2, num)
+print(is_in_interval(num1, num2, num))
